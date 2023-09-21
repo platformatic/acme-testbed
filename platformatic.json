@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/platformatic/acme-base/main/schemas/1.json",
+  "module": "@platformatic/acme-base",
+  "server": {
+    "hostname": "{{HOSTNAME}}",
+    "port": "{{PORT}}"
+  },
+  "dynamite": true,
+  "watch": "{{WATCH}}"
+}

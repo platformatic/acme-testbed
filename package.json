@@ -1,0 +1,20 @@
+{
+  "name": "acme-testbed",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matteo Collina <hello@matteocollina.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@platformatic/acme-base": "^0.1.2",
+    "@platformatic/service": "^0.45.0",
+    "fastify": "^4.23.2"
+  },
+  "devDependencies": {
+    "platformatic": "^0.45.0"
+  }
+}
