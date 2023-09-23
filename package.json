@@ -10,7 +10,7 @@
   "author": "Matteo Collina <hello@matteocollina.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "@platformatic/acme-base": "^0.1.2",
+    "@platformatic/acme-base": "^0.2.0",
     "@platformatic/service": "^0.45.0",
     "fastify": "^4.23.2"
   },
