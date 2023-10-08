@@ -5,6 +5,6 @@
     "hostname": "{{HOSTNAME}}",
     "port": "{{PORT}}"
   },
-  "dynamite": true,
+  "dynamite": false,
   "watch": "{{WATCH}}"
 }
